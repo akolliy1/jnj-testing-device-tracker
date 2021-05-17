@@ -49,16 +49,16 @@ You can get the app running locally in the following way:
 		
  4. Install dependenices 
     
-		 `npm install`
+		npm install
 
 		 and 
 
-		`cd client`
+		cd client
 
 
-		`npm install`
+		npm install
 
-		`cd ../` go out of client folder to run app concurrently
+		cd ../ go out of client folder to run app concurrently
 
 		 
  5. Create an .env file in the root directory of the project
